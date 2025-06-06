@@ -27,7 +27,7 @@ This project analyzes COVID-19 vaccination data across major Indian states using
 | covid_dashboard.twbx    | Tableau dashboard file                           |
 | README.md               | Project explanation and usage instructions       |
 | covid_queries.sql       | SQL queries used (optional for future scope)     |
-
+| Python file             | main.py                                         |
 
 ## 📌 Key Insights (from Tableau Dashboard)
 
